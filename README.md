@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi everyone 👋
+
+# xkllkx
+
+I am a first-year master's student with 5 years of experience in C++ and Python programming.
+My repo includes the side projects, competition entries, and significant course projects I have worked on in my spare time.
+Feel free to take a look at my repo if you're interested.
 
 <!--
 **xkllkx/xkllkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
