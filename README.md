@@ -1,5 +1,9 @@
 ## Hi everyone 👋
 
+|Github State|Top Language|
+|:-:|:-:|
+|[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=xklllkx&show_icons=true&theme=light&card_width=320\&include_all_commits=true\&show=reviews,prs_merged\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=xklllkx&theme=light&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
+
 I am a first-year master's student with 5 years of experience in C++ and Python programming.
 My repo includes the side projects, competition entries, and significant course projects I have worked on in my spare time.
 Feel free to take a look at my repo if you're interested.
